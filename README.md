@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋,
 
-<!--
-**arnoldkm278/arnoldkm278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+[I'm Arnold](https://github.com/arnoldkm278), I am a motivated Computer Science student with a strong interest in Cloud Computing and Software Development.  
+I enjoy building and deploying web applications, and I am currently focusing on developing my skills in AWS Cloud technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a skilled **AWS Cloud Engineer**, with a strong understanding of cloud infrastructure, deployment, and modern software systems.
+
+## 🚀 What I'm Currently Working On
+- Developing personal projects 
+- Studying AWS Cloud fundamentals and core services
+- Exploring cloud deployment concepts such as hosting, storage, and networking
+- Building a strong foundation in software development and problem-solving
+
+## 🛠️ Tools & Technologies
+- HTML
+- CSS
+- JavaScript 
+- Git & GitHub
+- Visual Studio Code
+- AWS (currently learning: cloud fundamentals and core services)
+
+## 📫 Contact Me
+- Email: kuchochaa13@gmail.com  
+- GitHub: https://github.com/arnoldkm278
+
+---
+
+⭐ Passionate about continuous learning, cloud technologies, and building real-world solutions using AWS.
