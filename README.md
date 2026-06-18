@@ -1,8 +1,7 @@
-# Hi there 👋,
-
+### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ## 👨‍💻 About Me
-[I'm Arnold](https://arnoldkm278.github.io/Portfolio/), I am a motivated Computer Science student with a strong interest in Cloud Computing and Software Development.  
+I'm [Arnold](https://arnoldkm278.github.io/Portfolio/), I am a motivated Computer Science student with a strong interest in Cloud Computing and Software Development.  
 I enjoy building and deploying web applications, and I am currently focusing on developing my skills in AWS Cloud technologies.  
 
 My goal is to become a skilled **AWS Cloud Engineer**, with a strong understanding of cloud infrastructure, deployment, and modern software systems.
