@@ -16,7 +16,7 @@ My goal is to become a skilled **AWS Cloud Engineer**, with a strong understandi
 ## 🛠️ Tools & Technologies
 - HTML
 - CSS
-- Python (currently learning
+- Python (currently learning)
 - JavaScript 
 - Git & GitHub
 - Visual Studio Code
