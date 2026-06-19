@@ -7,7 +7,8 @@ I enjoy building and deploying web applications, and I am currently focusing on 
 My goal is to become a skilled **AWS Cloud Engineer**, with a strong understanding of cloud infrastructure, deployment, and modern software systems.
 
 ## 🚀 What I'm Currently Working On
-- Developing personal projects 
+- Developing personal projects
+- Developing my skills in Python
 - Studying AWS Cloud fundamentals and core services
 - Exploring cloud deployment concepts such as hosting, storage, and networking
 - Building a strong foundation in software development and problem-solving
