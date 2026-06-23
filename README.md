@@ -8,6 +8,7 @@ My goal is to become a skilled **AWS Cloud Engineer**, with a strong understandi
 
 ## 🚀 What I'm Currently Working On
 - Developing personal projects
+- Develping my skills in CI/CD
 - Developing my skills in Python
 - Studying AWS Cloud fundamentals and core services
 - Exploring cloud deployment concepts such as hosting, storage, and networking
